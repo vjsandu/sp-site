@@ -1,0 +1,8 @@
+# robots.txt for sandeshparjanya.com
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sandeshparjanya.com/sitemap.xml
+
+Crawl-delay: 1
