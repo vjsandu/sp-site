@@ -244,8 +244,9 @@ input:checked + .slider:after {
 
 .tagline-inline {
     color: #7D7D7D;
-    font-size: 0.65em;
+    font-size: 0.95em;
     font-weight: 400;
+    white-space: nowrap;
 }
 
 [data-theme="dark"] .tagline-inline {
@@ -388,7 +389,7 @@ a:hover {
     }
 
     .tagline-inline {
-        font-size: 0.6em;
+        font-size: 0.95em;
     }
 
     .subtitle {
